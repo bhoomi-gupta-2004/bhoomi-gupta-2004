@@ -2,7 +2,7 @@
 
 # Bhoomi Gupta
 
-### 🚀 Full Stack Developer • React Native Developer • MERN Stack Enthusiast
+### Full Stack Developer • React Native Developer • MERN Stack Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;React+Native+Developer;Building+Creative+Web+Experiences;MERN+Stack+Enthusiast;Open+Source+Learner;Passionate+About+UI%2FUX+%26+Real-Time+Apps" />
 
@@ -14,23 +14,23 @@
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-# 🚀 About Me
+# About Me
 
 🎓 B.Tech CSE Student at **GNA University** with **8.99 CGPA**
 
-💻 Working as a **Full Stack Trainer** at Excellence Technology
+💻 Full Stack Trainer at **Excellence Technology**
 
 📱 Passionate about **React, React Native & Full Stack Development**
 
 🚍 Creator of **CampusGo - University Bus Management System**
 
- Interested in:
+🧠 Interested in:
 - AI-based Applications
 - Real-Time Systems
 - UI/UX Experiences
-- Scalable Backend Architectures
+- Backend Architectures
 
 🏆 Hackathon Winner & Research Publication Author
 
@@ -45,7 +45,7 @@
 
 ---
 
-#  Current Focus
+# Current Focus
 
 - Building scalable MERN applications
 - Learning advanced React Native
@@ -54,29 +54,29 @@
 
 ---
 
-#  Tech Stack
+# Tech Stack
 
 <div align="center">
 
-### 👨‍💻 Languages
+### Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,html,css" />
 
 ---
 
-###  Frontend Development
+### Frontend
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 
 ---
 
-###  Backend Development
+### Backend
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,mysql" />
 
 ---
 
-###  Tools & Platforms
+### Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 
@@ -84,34 +84,34 @@
 
 ---
 
-# 🌟 Featured Projects
+# Featured Projects
 
-##  CampusGo — University Bus Management System
+## CampusGo — University Bus Management System
 
-> Real-time University Bus Management System with:
+> Real-time University Bus Management System featuring:
 - Live Bus Tracking
 - Firebase Authentication
 - Role-based Dashboards
 - Route Management
 - REST APIs using Node.js & Express
 
-🔗 **Repository:** https://github.com/bhoomi-gupta-2004/campusgo)
+🔗 **Repository:** Add Your Repository Link Here
 
 ---
 
-##  Smart Recipe Finder
+## Smart Recipe Finder
 
 > AI-powered recipe recommendation platform with:
 - Smart Leftover Matching
-- Beautiful Responsive UI
+- Responsive UI
 - Authentication System
 - MongoDB Backend
 
-🔗 **Repository:** https://github.com/bhoomi-gupta-2004/smart-recipe-finder
+🔗 **Repository:** Add Your Repository Link Here
 
 ---
 
-##  DigiWings ERP
+## DigiWings ERP
 
 > Full MERN ERP platform featuring:
 - User Management
@@ -119,21 +119,23 @@
 - Secure Authentication
 - Business Workflow Handling
 
-🔗 **Repository:**  https://github.com/bhoomi-gupta-2004/Digiwings
+🔗 **Repository:** Add Your Repository Link Here
 
 ---
 
-##  Algorithm Visualizers
+## Algorithm Visualizers
 
-> Interactive algorithm visualizers including:
+> Interactive visualizers including:
 - Floyd Warshall Algorithm
 - Travelling Salesman Problem
 - Animated Graph Visualizations
 - Dynamic UI using HTML/CSS/JavaScript
 
+🔗 **Repository:** Add Your Repository Link Here
+
 ---
 
-#  GitHub Analytics
+# GitHub Analytics
 
 <div align="center">
 
@@ -153,7 +155,7 @@
 
 ---
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <div align="center">
 
@@ -163,7 +165,7 @@
 
 ---
 
-# 🏆 GitHub Trophies
+# GitHub Trophies
 
 <div align="center">
 
@@ -173,23 +175,18 @@
 
 ---
 
-# 🏆 Achievements
+# Achievements
 
-🥉 **3rd Place** — AI & Data Science Hackathon 3.0
-
-🥇 **1st Position** — Inter-College Quiz Competition
-
-🥈 **2nd Position** — Inter-College Coding Competition
-
-📚 Published Review Paper on **Applications of IoT in Agriculture**
-
-🧠 Co-authored Chapter on **Image Enhancement Techniques**
-
-💡 Filed Multiple Technology Patents
+- 3rd Place — AI & Data Science Hackathon 3.0
+- 1st Position — Inter-College Quiz Competition
+- 2nd Position — Inter-College Coding Competition
+- Published Review Paper on Applications of IoT in Agriculture
+- Co-authored Chapter on Image Enhancement Techniques
+- Filed Multiple Technology Patents
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 <div align="center">
 
@@ -203,56 +200,53 @@
 
 ---
 
-# 🌐 Portfolio Website
+# Portfolio
 
 <div align="center">
 
 <a href="https://bhoomi-gupta-portfolio.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/View-Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 </div>
+
 ---
 
-
-# 🌐 Connect With Me
+# Connect With Me
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/bhoomi-gupta-405b80254/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="55" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
 
-<a href="mailto:bhoomiguta28may@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="55" />
+<a href="mailto:bhoomigupta28may@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
 
-<a href="https://github.com/bhoomi-guta-2004">
-  <img src="https://skillicons.dev/icons?i=github" height="55" />
+<a href="https://github.com/bhoomi-gupta-2004">
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
 </a>
 
 <a href="https://leetcode.com/u/bhoomi_gupta/">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="55" />
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="40" />
 </a>
-
-
-
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 <div align="center">
 
-![snake gif](https://github.com/bhoomi-gupta-2004/bhoomi-gupta-2004/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/bhoomi-gupta-2004/bhoomi-gupta-2004/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
 
 ---
 
-# ✨ Developer Quote
+# Developer Quote
 
 <div align="center">
 
