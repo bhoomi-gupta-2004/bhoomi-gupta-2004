@@ -139,9 +139,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhoomi-gupta-2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhoomi-gupta-2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi-gupta-2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi-gupta-2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
 
 </div>
 
@@ -149,7 +149,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bhoomi-gupta-2004&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img src="https://streak-stats.demolab.com?user=bhoomi-gupta-2004&theme=tokyonight&hide_border=true&border_radius=10"/>
 
 </div>
 
