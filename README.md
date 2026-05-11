@@ -95,7 +95,7 @@
 - Route Management
 - REST APIs using Node.js & Express
 
-🔗 **Repository:** Add Your Repository Link Here
+🔗 **Repository:** https://github.com/bhoomi-gupta-2004/campusgo
 
 ---
 
@@ -107,7 +107,7 @@
 - Authentication System
 - MongoDB Backend
 
-🔗 **Repository:** Add Your Repository Link Here
+🔗 **Repository:** https://github.com/bhoomi-gupta-2004/smart-recipe-finder
 
 ---
 
@@ -119,7 +119,7 @@
 - Secure Authentication
 - Business Workflow Handling
 
-🔗 **Repository:** Add Your Repository Link Here
+🔗 **Repository:** https://github.com/bhoomi-gupta-2004/Digiwings
 
 ---
 
@@ -135,21 +135,22 @@
 
 ---
 
+
 # GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bhoomi-gupta-2004&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=bhoomi-gupta-2004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi-gupta-2004&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhoomi-gupta-2004&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-<br/>
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=bhoomi-gupta-2004&theme=tokyonight&hide_border=true&border_radius=10"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=bhoomi-gupta-2004&theme=tokyonight&hide_border=true" />
 
 </div>
 
